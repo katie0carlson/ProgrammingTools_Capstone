@@ -1,4 +1,4 @@
-# Programming_Capstone_Project
+# Programming_Tools_Capstone
 Programming Tools for the Data Scientist Capstone Project
 
 -This is my final project from the Programming Tools for the Data Scientist course. 
